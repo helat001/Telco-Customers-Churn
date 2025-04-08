@@ -20,35 +20,35 @@ This project explores customer churn using a Telco dataset. I built an end-to-en
 ##  Key Insights
 
 ###  Churn Distribution
-The churn dataset is imbalanced with ~27% churners.
+
 
 ![Churn Distribution](churn_distribution.png)
 
 ---
 
 ###  Tenure vs. Churn
-Customers with low tenure (under 12 months) are more likely to churn.
+
 
 ![Tenure vs Churn](tenure_vs_churn.png)
 
 ---
 
 ###  Correlation Matrix
-Tenure is highly correlated with TotalCharges. Churn is positively correlated with MonthlyCharges and negatively with Tenure.
+
 
 ![Correlation Matrix](correlation_matrix.png)
 
 ---
 
 ###  Feature Importance (XGBoost)
-Top predictors: MonthlyCharges, TotalCharges, Tenure, Contract type.
+
 
 ![Feature Importance](feature_importance.png)
 
 ---
 
 ###  SHAP Summary Plot
-High churn risk comes from short tenure, month-to-month contract, and high charges.
+
 
 ![SHAP Summary](Shap_summary.png)
 
