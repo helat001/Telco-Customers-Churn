@@ -61,16 +61,18 @@ SHAP values show that short tenure, month-to-month contracts, and high monthly c
 Three key recommendations based on model insights and visuals to help reduce customer churn:
 
 1. Encourage Long-Term Contracts:
-- Month-to-month contracts were a top predictor of churn based on the SHAP summary plot and feature importance graph.
-- The company should offer incentives, like discounts or perks, for switching to 1- or 2-year plans.
+  - Month-to-month contracts were a top predictor of churn based on the SHAP summary plot and feature importance graph.
+  - The company should offer incentives, like discounts or perks, for switching to 1- or 2-year plans.
 
 2. Strengthen Onboarding for New Customers:
-- The "Tenure vs. Churn" boxplot shows that most churners were customers with less than one year of service, and tenure is a key churn driver.
-- A structured onboarding strategy with tailored support could help reduce early churn.
+  - The "Tenure vs. Churn" boxplot shows that most churners were customers with less than one year of service, and tenure is a key churn 
+    driver.
+  - A structured onboarding strategy with tailored support could help reduce early churn.
 
 3. Promote Add-On Services:
-- The SHAP summary plot shows that not having tech support or online security is linked to higher churn.
-- These services likely increase customer satisfaction and engagement. Offering free trials or bundling them in plans could help reduce churn.
+  - The SHAP summary plot shows that not having tech support or online security is linked to higher churn.
+  - These services likely increase customer satisfaction and engagement. Offering free trials or bundling them in plans could help reduce 
+    churn.
    
    ---
 
