@@ -41,14 +41,14 @@ Churned customers had a median tenure of 10 months, while retained ones averaged
 ---
 
 ###  Feature Importance (XGBoost)
-
+XGBoost ranked MonthlyCharges, TotalCharges, and Tenure as the most important features
 
 ![Feature Importance](feature_importance.png)
 
 ---
 
 ###  SHAP Summary Plot
-
+SHAP values show that short tenure, month-to-month contracts, and high monthly charges consistently increase churn probability.
 
 ![SHAP Summary](Shap_summary.png)
 
