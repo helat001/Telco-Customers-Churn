@@ -50,7 +50,7 @@ Top predictors: MonthlyCharges, TotalCharges, Tenure, Contract type.
 ### 🔸 SHAP Summary Plot
 High churn risk comes from short tenure, month-to-month contract, and high charges.
 
-![SHAP Summary](shap_summary.png)
+![SHAP Summary](Shap_summary.png)
 
 ---
 
