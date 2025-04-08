@@ -7,10 +7,9 @@
 ---
 
 ##  Project Overview
-
+[View Full Query →](sql_query.sql.txt)
 In this project, I explored customer churn using a Telco dataset. I built a full machine learning pipeline using Python, focusing on data cleaning, exploratory analysis, modeling with XGBoost, and explainability using SHAP.
 
-[View Full Query →](sql_query.sql.txt)
 ---
 
 ##  Key Insights
