@@ -63,15 +63,20 @@ This project explores customer churn using a Telco dataset. I built an end-to-en
 
 ---
 
-##  Business Recommendations (Short & Actionable)
+##  Business Recommendations
+Three recomendations based on visuals and model insights to reduce customer churn.
 
--  Encourage long-term contracts to reduce churn
--  Improve onboarding for new customers (< 90 days)
--  Offer bundles or discounts for high-paying customers
--  Promote add-ons like online security & tech support
--  Push for automatic payments over manual e-checks
--  Use the model to identify and retain high-risk customers
--  Support seniors & single customers with tailored service
--  Continuously retrain the model and track strategy outcomes
-
----
+ 1. Encourage Long term contracts:
+    -A month to month contract was the top predictor of churn on the Shap plot and feature importance graph.
+    -Incentivize long term contracts by discounts for switching to a 1 or 2 year plan.
+    
+ 2. Strenghten onboarding for new customers:
+    - From the boxplot "Tenure vs Churn", most churners were customers with less than a year with the company. And tenure is a key churn 
+    driver.
+    - Must have an onboarding startegy with tailored support to customers to reduce early churn.
+   
+ 3. Promote Add-on Services:
+    - Shap summary shows that a lack of services like tech support and online security contributes to higher churn.
+    - Maybe these services make the customers feel more engaged and increase their satisfaction.
+    - Offer free trials for these services or bundle them in plans for a discount can reduce churn.
+ 
