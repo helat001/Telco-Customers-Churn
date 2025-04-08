@@ -20,14 +20,14 @@ This project explores customer churn using a Telco dataset. I built an end-to-en
 ##  Key Insights
 
 ###  Churn Distribution
-
+Only 27% of customers in the dataset churned, while 73% stayed.
 
 ![Churn Distribution](churn_distribution.png)
 
 ---
 
 ###  Tenure vs. Churn
-
+Churned customers had a median tenure of 10 months, while retained ones averaged 40 months.
 
 ![Tenure vs Churn](tenure_vs_churn.png)
 
