@@ -34,7 +34,7 @@ Churned customers had a median tenure of 10 months, while retained ones averaged
 ---
 
 ###  Correlation Matrix
-
+Churn is negatively correlated with tenure and total charges, and positively correlated with monthly charges.
 
 ![Correlation Matrix](correlation_matrix.png)
 
