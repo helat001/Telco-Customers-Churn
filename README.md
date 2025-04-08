@@ -8,7 +8,7 @@
 
 ##  Project Overview
 
-This project explores customer churn using a Telco dataset. We build an end-to-end machine learning pipeline using Python, focusing on preprocessing, exploratory data analysis, XGBoost modeling, and SHAP explainability.
+This project explores customer churn using a Telco dataset. I built an end-to-end machine learning pipeline using Python, focusing on preprocessing, exploratory data analysis, XGBoost modeling, and SHAP explainability.
 
 ---
 
