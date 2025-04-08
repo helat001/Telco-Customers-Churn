@@ -52,14 +52,7 @@ This project explores customer churn using a Telco dataset. I built an end-to-en
 
 ![SHAP Summary](Shap_summary.png)
 
----
 
-##  Model & Tools Used
-
-- **Model**: XGBoost Classifier  
-- **Explainability**: SHAP  
-- **Metrics**: Accuracy  
-- **Tools & Libraries Used**: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`, `xgboost`, `shap`
 
 ---
 
@@ -67,8 +60,8 @@ This project explores customer churn using a Telco dataset. I built an end-to-en
 Three recomendations based on visuals and model insights to reduce customer churn.
 
  1. Encourage Long term contracts:
-    -A month to month contract was the top predictor of churn on the Shap plot and feature importance graph.
-    -Incentivize long term contracts by discounts for switching to a 1 or 2 year plan.
+    - A month to month contract was the top predictor of churn on the Shap plot and feature importance graph.
+    - Incentivize long term contracts by discounts for switching to a 1 or 2 year plan.
     
  2. Strenghten onboarding for new customers:
     - From the boxplot "Tenure vs Churn", most churners were customers with less than a year with the company. And tenure is a key churn 
@@ -79,4 +72,13 @@ Three recomendations based on visuals and model insights to reduce customer chur
     - Shap summary shows that a lack of services like tech support and online security contributes to higher churn.
     - Maybe these services make the customers feel more engaged and increase their satisfaction.
     - Offer free trials for these services or bundle them in plans for a discount can reduce churn.
+   
+   ---
+
+##  Model & Tools Used
+
+- **Model**: XGBoost Classifier  
+- **Explainability**: SHAP  
+- **Metrics**: Accuracy  
+- **Tools & Libraries Used**: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`, `xgboost`, `shap`
  
