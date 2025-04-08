@@ -1,6 +1,6 @@
 #  Customer Churn Prediction – Python Project
 
-**Author**: Houcine E  
+**Author**: Houcine El  
 **Project Type**: Machine Learning & Data Analysis  
 **Presentation**: 🎥 [Watch the Video](#) *(Link will go here)*
 
