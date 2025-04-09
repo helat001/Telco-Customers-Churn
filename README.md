@@ -72,7 +72,7 @@ Three key recommendations based on model insights and visuals to help reduce cus
    - A structured onboarding strategy with tailored support could help reduce early churn.
 
 3. Promote Add-On Services:
-   - The SHAP summary plot shows that not having tech support or online security is linked to higher churn.
+   - The SHAP summary plot shows that not having tech support or online security is linked to churn.
    - These services likely increase customer satisfaction and engagement. Offering free trials or bundling them in plans could help reduce 
     churn.
    
