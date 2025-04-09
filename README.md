@@ -52,7 +52,7 @@ XGBoost ranked MonthlyCharges, TotalCharges, and Tenure as the most important fe
 ###  SHAP Summary Plot
 SHAP values show that short tenure, month-to-month contracts, and high monthly charges consistently increase churn probability.
 
-![SHAP Summary](Shap_summary.png)
+![SHAP Summary](shap_summary.png)
 
 
 
