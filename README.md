@@ -4,15 +4,14 @@
 **Project Type**: Machine Learning & Data Analysis  
 ## Video Presentation
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=tat78skU6PE">
+  <a href="https://www.youtube.com/watch?v=tat78skU6PE" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/tat78skU6PE/mqdefault.jpg" alt="Customer Churn Prediction" width="400">
   </a>
   <br>
-  <a href="https://www.youtube.com/watch?v=tat78skU6PE">
+  <a href="https://www.youtube.com/watch?v=tat78skU6PE" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" style="vertical-align:middle">
   </a>
 </div>
----
 
 ##  Project Overview
 
