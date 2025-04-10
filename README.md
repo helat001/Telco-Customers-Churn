@@ -3,8 +3,15 @@
 **Author**: Houcine El  
 **Project Type**: Machine Learning & Data Analysis  
 ## Video Presentation
-[![Customer Churn Prediction Project](https://img.youtube.com/vi/tat78skU6PE/0.jpg)](https://www.youtube.com/watch?v=tat78skU6PE)
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=tat78skU6PE">
+    <img src="https://img.youtube.com/vi/tat78skU6PE/mqdefault.jpg" alt="Customer Churn Prediction" width="400">
+  </a>
+  <br>
+  <a href="https://www.youtube.com/watch?v=tat78skU6PE">
+    <img src="https://img.shields.io/badge/Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" style="vertical-align:middle">
+  </a>
+</div>
 ---
 
 ##  Project Overview
