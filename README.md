@@ -88,7 +88,7 @@ Three key recommendations based on model insights and visuals to help reduce cus
 
 ##  Model & Tools Used
 
-- **Model**: XGBoost Classifier  
+- **Model**: XGBoost Classifier.  
 - **Explainability**: SHAP  
 - **Metrics**: Accuracy  
 - **Tools & Libraries Used**: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`, `xgboost`, `shap`
