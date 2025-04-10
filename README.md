@@ -3,8 +3,7 @@
 **Author**: Houcine El  
 **Project Type**: Machine Learning & Data Analysis  
 ## Video Presentation
-[![Customer Churn Prediction Project Walkthrough](https://img.youtube.com/vi/tat78skU6PE/0.jpg)](https://www.youtube.com/watch?v=tat78skU6PE)
-*(Click the image above to watch the full project walkthrough)*
+[![Customer Churn Prediction Project](https://img.youtube.com/vi/tat78skU6PE/0.jpg)](https://www.youtube.com/watch?v=tat78skU6PE)
 
 ---
 
